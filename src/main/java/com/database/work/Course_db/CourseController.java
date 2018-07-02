@@ -20,7 +20,7 @@ import com.database.work.Course_db.services.CourseService;
 @RestController
 public class CourseController {
  
-	@Autowired
+//	@Autowired
 	private CourseService courseService;
 	
 	@RequestMapping(value="/course")
