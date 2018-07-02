@@ -1,0 +1,5 @@
+com\database\work\Course_db\CourseController.class
+com\database\work\Course_db\repository\CourseRepository.class
+com\database\work\Course_db\services\CourseService.class
+com\database\work\Course_db\model\Course.class
+com\database\work\Course_db\App.class
